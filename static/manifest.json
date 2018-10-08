@@ -1,0 +1,9 @@
+{
+    "name": "Mwakenya",
+    "baseUrl": "http://localhost:8081/",
+    "description": "The digital mwakenya :)",
+    "tile": {
+        "iconUrl": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiw98W0sOrdAhXNz4UKHVlPC7kQjRx6BAgBEAU&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fnotebook_259536&psig=AOvVaw1GhSXcsursxRFL-xoW2VjY&ust=1538659751426279"
+    },
+    "serverUrl": ""
+}
